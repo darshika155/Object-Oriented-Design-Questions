@@ -1,5 +1,6 @@
 package Players;
 
+//abstract class player
 public abstract class Player { 
 	
     public boolean whiteSide; 
